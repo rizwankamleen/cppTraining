@@ -4,7 +4,6 @@
 #include <ctime>
 #include<fstream>
 #include<sstream>
-//#include<window.h>
 
 
 using namespace std;
