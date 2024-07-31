@@ -5,7 +5,7 @@
 #include<fstream>
 #include<sstream>
 
-
+ 
 using namespace std;
 
 class Customer {
@@ -15,6 +15,7 @@ class Customer {
  long   Phone;
  string Email;
  vector <string> Accounts = {};
+ int r;
  
 public:
 
